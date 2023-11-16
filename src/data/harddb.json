@@ -1,0 +1,14 @@
+{
+    "solutions": [
+        {"word": "ability", "id": 1},
+        {"id": 2, "word": "backing"},
+        {"id": 3, "word": "cabinet"},
+        {"id": 4, "word": "concept"},
+        {"id": 5, "word": "concern"},
+        {"id": 6, "word": "driving"},
+        {"id": 7, "word": "dynamic"},
+        {"id": 8, "word": "evening"},
+        {"id": 9, "word": "exactly"},
+        {"id": 10, "word": "factory"}
+    ]
+}

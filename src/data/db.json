@@ -1,0 +1,14 @@
+{
+    "solutions": [
+        {"word": "abroad", "id": 1},
+        {"id": 2, "word": "border"},
+        {"id": 3, "word": "bottle"},
+        {"id": 4, "word": "bottom"},
+        {"id": 5, "word": "casual"},
+        {"id": 6, "word": "camera"},
+        {"id": 7, "word": "differ"},
+        {"id": 8, "word": "dinner"},
+        {"id": 9, "word": "direct"},
+        {"id": 10, "word": "doctor"}
+    ]
+}
